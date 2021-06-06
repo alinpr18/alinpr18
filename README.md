@@ -8,7 +8,7 @@ Actualmente estoy estudiando para lograr ser un excelente Frontend. Algunos de m
 
 
 <p align="center">
-  <a href="https://twitter.com/alinpr18">
+  <a href="https://twitter.com/alinpr18" target="_blank">
     <img src="https://abs.twimg.com/favicons/twitter.ico">
   </a>
 </p>
